@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Catatan Saya</string>
+    <string name="mode_gelap">Mode gelap</string>
+    <string name="belum_ada_catatan">Belum ada catatan.\nKetuk tombol + untuk menambah.</string>
+    <string name="tambah_catatan">Tambah catatan</string>
+    <string name="judul_tambah">Catatan Baru</string>
+    <string name="hint_judul">Judul</string>
+    <string name="hint_isi">Isi catatan</string>
+    <string name="simpan">Simpan</string>
+    <string name="judul_kosong">Judul tidak boleh kosong</string>
+    <string name="catatan_tersimpan">Catatan tersimpan</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
+    <string name="hapus_judul">Hapus catatan?</string>
+    <string name="hapus_pesan">Catatan \"%1$s\" akan dihapus.</string>
+</resources>
